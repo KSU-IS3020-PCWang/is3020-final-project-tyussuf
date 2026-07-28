@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Tolina Yussuf
+- GitHub username: tyussuf
+- Project title: Pitch Match
+- Application purpose: Pitch Match is a Python application that helps newly interested American futbol (soccer) fans decide which club to follow after the World Cup.
 
 ## How to Run the Application
 
