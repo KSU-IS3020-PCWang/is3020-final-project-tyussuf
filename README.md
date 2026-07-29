@@ -11,7 +11,7 @@
 
 Explain the required Python version, required files, and the exact steps for starting the application in PyCharm.
 
-Required Python version:** Python 3.10 or later.
+Required Python version: Python 3.10 or later.
 
 Required files: pitch_match.py, and the data folder containing clubs.csv and results.csv, with the data folder in the same directory as pitch_match.py.
 
